@@ -1,1 +1,1 @@
-# task-monitoring-java
+A Task Monitoring Java Project that allows users to create, assign, and track tasks efficiently. It manages deadlines, updates task statuses, and sends notifications, ensuring smooth workflow and improved productivity using OOP concepts and inheritance.
